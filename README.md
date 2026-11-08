@@ -2,7 +2,7 @@
 
 # README
 
-This directory has the source code for some of the software based on which the Rig Veda/Vedas related research was conducted.
+This repo has the software based on which the Rig Veda/Vedas related research was conducted.
 
 [: UPDATE OF NOVEMBER 8, 2026 :]
 
